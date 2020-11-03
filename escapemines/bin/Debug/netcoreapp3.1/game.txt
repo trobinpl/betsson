@@ -1,0 +1,7 @@
+5 4
+1,2 2,2
+2 4
+2 1 N
+M M R M M R M M L M
+R M
+M M M

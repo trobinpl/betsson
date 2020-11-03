@@ -1,0 +1,15 @@
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\obj\Debug\netcoreapp3.1\escapemines.csprojAssemblyReference.cache
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\obj\Debug\netcoreapp3.1\escapemines.AssemblyInfoInputs.cache
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\obj\Debug\netcoreapp3.1\escapemines.AssemblyInfo.cs
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\bin\Debug\netcoreapp3.1\escapemines.exe
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\bin\Debug\netcoreapp3.1\escapemines.deps.json
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\bin\Debug\netcoreapp3.1\escapemines.runtimeconfig.json
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\bin\Debug\netcoreapp3.1\escapemines.runtimeconfig.dev.json
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\bin\Debug\netcoreapp3.1\escapemines.dll
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\bin\Debug\netcoreapp3.1\escapemines.pdb
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\bin\Debug\netcoreapp3.1\escapemines.Game.dll
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\bin\Debug\netcoreapp3.1\escapemines.Game.pdb
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\obj\Debug\netcoreapp3.1\escapemines.csproj.CopyComplete
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\obj\Debug\netcoreapp3.1\escapemines.dll
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\obj\Debug\netcoreapp3.1\escapemines.pdb
+E:\Projekty\_recruitment\betsson\escapemines\escapemines\bin\Debug\netcoreapp3.1\game.txt

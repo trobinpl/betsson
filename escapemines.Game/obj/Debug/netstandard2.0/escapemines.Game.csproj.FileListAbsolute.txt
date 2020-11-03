@@ -1,0 +1,8 @@
+E:\Projekty\_recruitment\betsson\escapemines\escapemines.Game\bin\Debug\netstandard2.0\escapemines.Game.deps.json
+E:\Projekty\_recruitment\betsson\escapemines\escapemines.Game\bin\Debug\netstandard2.0\escapemines.Game.dll
+E:\Projekty\_recruitment\betsson\escapemines\escapemines.Game\bin\Debug\netstandard2.0\escapemines.Game.pdb
+E:\Projekty\_recruitment\betsson\escapemines\escapemines.Game\obj\Debug\netstandard2.0\escapemines.Game.csprojAssemblyReference.cache
+E:\Projekty\_recruitment\betsson\escapemines\escapemines.Game\obj\Debug\netstandard2.0\escapemines.Game.AssemblyInfoInputs.cache
+E:\Projekty\_recruitment\betsson\escapemines\escapemines.Game\obj\Debug\netstandard2.0\escapemines.Game.AssemblyInfo.cs
+E:\Projekty\_recruitment\betsson\escapemines\escapemines.Game\obj\Debug\netstandard2.0\escapemines.Game.dll
+E:\Projekty\_recruitment\betsson\escapemines\escapemines.Game\obj\Debug\netstandard2.0\escapemines.Game.pdb
