@@ -1,7 +1,20 @@
 Escape Mines - Paweł Hemperek - README
 
-Hi!
-I've decided to write this short README file, because I felt the need to talk about some design decisions and assumptions I've made when implementing the escape of our brave turtle out of mine field!
+Description: it's one of the recruitment assignement I did. The task was to create a program that simulates turtle going through the maze. Inside the maze there were also some mines - if the turtle happen to step on field with mine, well... it was game over for him :-(.
+
+Input was game settings (maze size, exit point, mines locations, starting point and facing direction of the turle).
+maze size         -> 5 4
+mines             -> 1,2 2,2
+exit point        -> 2 4
+starting point    -> 2 1 N
+sequence of moves -> M M R M M R M M L M
+sequence of moves -> R M
+sequence of moves -> M M M
+(this can be found in game.txt file)
+
+In case of getting to exit point program should display Success, when turtle hits mine it should say MineHit and in case of not being stuck inside maze after making all the moves it should communicate StillInDanger. Possible moves are moving in the facing direction or rotating.
+
+Below I included everything I thought the recruiters should know about when they reviewed my solution.
 
 Assumptions
 -----------
